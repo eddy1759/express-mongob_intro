@@ -96,7 +96,7 @@ The design process I used to create this API is very simple. First of all I had 
 
 ### Useful resources
 
-[resource](https://google.com) was very useful resource.
+[Google](https://google.com) was very useful resource.
 
 ## Author
 
